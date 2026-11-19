@@ -1,0 +1,6 @@
+{
+  "name": "Detalle · Con Amor",
+  "description": "Tienda virtual de regalos personalizados en Trujillo y todo el Perú. Personaliza tazas, cojines, cajas sorpresa y ramos con pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
